@@ -1,0 +1,2 @@
+- [baeldung](https://www.baeldung.com)
+- [maven repository](https://mvnrepository.com/repos/central)
